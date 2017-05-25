@@ -8,7 +8,7 @@
     "cli-color": "~1.2.0",
     "findup-sync": "^1.0.0",
     "fs-extra": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "git+https://github.com/gulpjs/gulp.git#38246c3f8b6dbb8d4ef657183e92d90c8299e22f",
     "gulp-help": "~1.6.1",
     "js-beautify": "^1.6.11",
     "lodash": "^4.17.4",
